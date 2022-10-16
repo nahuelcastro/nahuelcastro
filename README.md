@@ -53,7 +53,6 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
 <a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>
 <a href="https://www.sap.com/products/technology-platform/integration-suite.html" target="_blank"><img style="margin: 0px" src="https://www.suse.com/c/wp-content/uploads/2018/03/SAP-Cloud-Platform.png" alt="SCPI" height="70" /></a>
 <a href="https://www.sap.com/products/erp/s4hana.html" target="_blank"><img style="margin: 0px" src="https://s4ic.com/wp-content/uploads/2022/03/logo_SAP_S4HANA.jpeg" alt="S4HANA" height="60" /></a>
