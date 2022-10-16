@@ -31,8 +31,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
