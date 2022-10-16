@@ -23,7 +23,7 @@
 
 </td><td valign="top" width="50%">
 
-- 💼 any freelance work? contact me, [LinkedIn](https://www.linkedin.com/in/nahuel-castro/) :)  
+- 💼 any freelance work? contact me, [email](mailto:castronahuel14@gmail.com) :)  
   
 
 - ❓ Ask me about anything related to Python/SCPI  
