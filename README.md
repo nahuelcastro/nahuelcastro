@@ -9,9 +9,6 @@
 </a>  
 
 
-[![@nahuelcastro's Holopin board](https://holopin.me/nahuelcastro)](https://holopin.io/@nahuelcastro)
-  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -64,4 +61,6 @@
 
 
 <br />
-
+## Badges 
+[![@nahuelcastro's Holopin board](https://holopin.me/nahuelcastro)](https://holopin.io/@nahuelcastro)
+  
