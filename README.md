@@ -62,7 +62,8 @@
 
 <br />
 
+<!---
 ## Badges
-
 [![@nahuelcastro's Holopin board](https://holopin.me/nahuelcastro)](https://holopin.io/@nahuelcastro)
+-->
   
