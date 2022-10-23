@@ -12,8 +12,6 @@
 [![@nahuelcastro's Holopin board](https://holopin.me/nahuelcastro)](https://holopin.io/@nahuelcastro)
   
 
-<br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
