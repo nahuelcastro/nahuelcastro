@@ -13,7 +13,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👨‍💻   I'm currently working at [Seidor](https://www.seidor.com/es-es) 
+- 👨‍💻   I'm currently working at [Westcon](https://www.westconcomstor.com/es/es/westcon.html) for the [Telefonica](https://telefonicatech.com/es) Office Project
   
 
 - 🌱 I'm currently learning Django and Blockchain  
@@ -24,7 +24,7 @@
 - 💼 any freelance work? contact me, [email](mailto:castronahuel14@gmail.com) :)  
   
 
-- ❓ Ask me about anything related to Python/SCPI  
+- ❓ Ask me about anything related to Python/SCPI 
 
 
 </td></tr></table>  
