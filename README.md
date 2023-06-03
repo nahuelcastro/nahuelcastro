@@ -13,7 +13,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👨‍💻 I'm currently working as a backend developer at [Westcon](https://www.westconcomstor.com/es/es/westcon.html) for the end customer [Telefonica Tech](https://telefonicatech.com/es). 
+- 👨‍💻 I'm currently working as a Backend Developer at [Westcon](https://www.westconcomstor.com/es/es/westcon.html) for the end customer [Telefonica Tech](https://telefonicatech.com/es). 
   
 - 💻 My day-to-day involves developing new features for internal platforms using Django and creating Python-based automations.
 
